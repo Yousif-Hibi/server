@@ -1,0 +1,12 @@
+208082081
+
+Yousif Hibi   208082081
+
+EX3 – HTTP server
+
+README:- a file that has information about the author and the exercise
+
+server.c :- Constructs an HTTP response based on the client's request, Sends the response to the client
+
+threadpool.c:- The pool is implemented by a queue. When the server gets a connection, it should put the connection in the queue. it will handle this connection.
+s
